@@ -1,7 +1,7 @@
 # 📊 Sales Performance Dashboard | Power BI
 
 ## Overview
-This project presents an interactive Power BI dashboard to analyze sales performance and identify key business insights.
+This project presents an interactive Power BI dashboard to analyze sales performance and generate business insights.
 
 ## Tools Used
 - Power BI
@@ -9,17 +9,7 @@ This project presents an interactive Power BI dashboard to analyze sales perform
 - Data Visualization
 - Data Analysis
 
-## Dashboard Features
-- Sales performance overview
-- Revenue trends
-- Product analysis
-- KPI tracking
-
 ## Key Insights
-- Identified sales trends and performance patterns
-- Analyzed revenue contribution by category/product
-- Created visual reports to support decision-making
-
-## Dashboard Preview
-
-![Sales Performance Dashboard](sales-dashboard-preview.png)
+- Analyzed sales trends and revenue performance
+- Identified product/category performance
+- Created visual reports to support data-driven decisions
