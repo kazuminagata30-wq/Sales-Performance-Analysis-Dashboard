@@ -1,15 +1,22 @@
 # 📊 Sales Performance Dashboard | Power BI
 
-## Overview
-This project presents an interactive Power BI dashboard to analyze sales performance and generate business insights.
+## Project Overview
+This project focuses on analyzing sales data and creating an interactive Power BI dashboard to understand sales performance, revenue trends, and business insights.
 
 ## Tools Used
 - Power BI
 - Data Cleaning
+- Data Transformation
 - Data Visualization
 - Data Analysis
 
+## Project Goals
+- Analyze overall sales performance
+- Identify trends and patterns
+- Track key business metrics
+- Present insights through interactive visualizations
+
 ## Key Insights
-- Analyzed sales trends and revenue performance
-- Identified product/category performance
-- Created visual reports to support data-driven decisions
+- Evaluated sales performance across different categories
+- Identified revenue trends and top-performing areas
+- Created data-driven insights to support business decisions
