@@ -21,5 +21,5 @@ This project presents an interactive Power BI dashboard to analyze sales perform
 - Created visual reports to support decision-making
 
 ## Dashboard Preview
-![Sales Performance Dashboard](<img width="1918" height="1031" alt="PowerBI_Dashboard png" src="https://github.com/user-attachments/assets/8113a4b3-15d7-45ac-96af-bb68a639e057" />
-)
+
+![Sales Performance Dashboard](sales-dashboard-preview.png)
