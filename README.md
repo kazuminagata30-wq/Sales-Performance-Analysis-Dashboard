@@ -1,42 +1,25 @@
-# Sales Performance Analysis Dashboard
+# 📊 Sales Performance Dashboard | Power BI
 
-## Project Overview
-This project analyzes 500 sales transactions to understand sales performance, profitability, category trends, regional performance, and top-selling products.
-
-The project demonstrates an end-to-end data analysis workflow using Excel, SQL, and Power BI.
+## Overview
+This project presents an interactive Power BI dashboard to analyze sales performance and identify key business insights.
 
 ## Tools Used
-- Microsoft Excel (Data Preparation)
-- SQLite (SQL Analysis)
-- Power BI (Dashboard Visualization)
-
-## Dataset
-The dataset contains sales transaction data including:
-- Order ID
-- Date
-- Customer
-- Product
-- Category
-- Region
-- Sales
-- Cost
-- Profit
-
-## Analysis Performed
-- Total Sales calculation
-- Total Profit calculation
-- Total Orders analysis
-- Sales by Category
-- Sales by Region
-- Top Products by Sales
-- Sales Trend Analysis
-
-## Dashboard
-Power BI dashboard created to visualize sales performance and business insights.
-
-## Skills Demonstrated
+- Power BI
 - Data Cleaning
-- Data Analysis
-- SQL Query Writing
 - Data Visualization
-- Dashboard Development
+- Data Analysis
+
+## Dashboard Features
+- Sales performance overview
+- Revenue trends
+- Product analysis
+- KPI tracking
+
+## Key Insights
+- Identified sales trends and performance patterns
+- Analyzed revenue contribution by category/product
+- Created visual reports to support decision-making
+
+## Dashboard Preview
+![Sales Performance Dashboard](<img width="1918" height="1031" alt="PowerBI_Dashboard png" src="https://github.com/user-attachments/assets/8113a4b3-15d7-45ac-96af-bb68a639e057" />
+)
